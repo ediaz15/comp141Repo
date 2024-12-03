@@ -1,0 +1,1 @@
+Testing how to insert files into a github repo. This shouldn't be too difficult, though I'd wish to have been able to use VS code. Maybe Ill install neovim or something and have fun with their key shortcut shenanigans
